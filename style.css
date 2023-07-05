@@ -1,0 +1,71 @@
+.container{
+    background-color: rgb(39, 39, 91);
+    margin: 10px;
+    height:50vh;
+    text-align: center;
+    border-radius: 3px;
+}
+.head{
+    color: white;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.head h3,h4{
+     
+    display: flex;
+  align-items: stretch;
+    padding-left: .3em;
+
+}
+.data{
+    text-align: center;
+    font-size:xx-large;
+    color:whitesmoke;
+}
+.container button{
+    color:rgb(240, 52, 155);
+  
+}
+.center{
+    background-color:rgba(236, 243, 243, 0.927);
+    opacity: .5;
+display: flex;
+min-height: fit-content;
+}
+.one{
+    text-align: center;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.center h5{
+    text-decoration: solid;
+    font-size: medium;
+}
+.two{
+    text-align: center;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.three{
+    text-align: center;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.foot{
+    margin-top: 2em;
+    
+}
+.right{
+    background-color: rgb(39, 39, 91);
+    padding-left: 20px;
+    color: white;
+}
+.right button{
+    background-color: aqua;
+}
+.last{
+    
+    padding-left: 50px;
+    flood-color: blue;
+}
